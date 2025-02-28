@@ -1,0 +1,3 @@
+[submodule "study_module_sub"]
+	path = study_module_sub
+	url = https://github.com/k-yoshikubo/study_module_sub.git
